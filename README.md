@@ -1,8 +1,9 @@
-- Hello! I'm kurogee
-- ついにgithubでの活動を開始します(多分)
-- Pythonとかばらまきます
+- Hello! I'm kuroge
+- ついにgithubでの活動を開始します(~多分~確信)
+- 色々作っています
 
 - Scratch: @kuroge_
+- Atcoder: @kuroge
 
 <!---
 kurogee/kurogee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
